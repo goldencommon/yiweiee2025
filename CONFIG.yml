@@ -25,19 +25,19 @@ google_analytics:
 
 nav:
   地图:
-    link: /location
+    link: /yiweiee2025/location
     icon: local-two
   # 归档:
   #   link: https://goldencommon.github.io/blog
   #   icon: inbox
   随机:
-    link: /random
+    link: /yiweiee2025/random
     icon: pic
   状态监控:
-    link: /status
+    link: /yiweiee2025/status
     icon: list-view
   时间线:
-    link: /grid-lanes
+    link: /yiweiee2025/grid-lanes
     icon: grid-nine
 
 thumbnail_url: https://cdn.jsdelivr.net/gh/goldencommon/yiweiee2025@thumbnail/
