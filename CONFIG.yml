@@ -1,0 +1,44 @@
+title: 我的摄影画廊
+subtitle: 用镜头记录美好时光
+description: Happy New Year !
+cover: 'https://github.com/lfkdsk/picx-images-hosting/raw/master/20230817/IMG_7586.4e91my1ve140.17iz0sa56gik.webp'
+author: goldencommon
+
+footer_logo:
+  use: self
+  self:
+    link: 'https://github.com/goldencommon'
+    src: 'https://github.com/lfkdsk/picx-images-hosting/raw/master/20230817/tripper2white.2pbuwaqvndu0.webp'
+
+url: https://goldencommon.github.io/yiweiee2025
+root: /yiweiee2025
+
+photography_page:
+  slogan: true
+  slogan_descr: 'The moments when I pressed the shutter, the moments are forever.'
+
+google_analytics:
+  use: gtag
+  ga_id:
+  ga_api:
+  gtag_id: XXXXX
+
+nav:
+  地图:
+    link: yiweiee2025/location
+    icon: local-two
+  归档:
+    link: https://goldencommon.github.io/blog
+    icon: inbox
+  随机:
+    link: yiweiee2025/random
+    icon: pic
+  状态监控:
+    link: yiweiee2025/status
+    icon: list-view
+  时间线:
+    link: yiweiee2025/grid-all
+    icon: grid-nine
+
+thumbnail_url: https://cdn.jsdelivr.net/gh/goldencommon/yiweiee2025@thumbnail/
+base_url: https://cdn.jsdelivr.net/gh/goldencommon/yiweiee2025@master
