@@ -25,7 +25,7 @@ google_analytics:
 
 nav:
   地图:
-    link: yiweiee2025/location
+    link: location
     icon: local-two
   归档:
     link: https://goldencommon.github.io/blog
@@ -37,7 +37,7 @@ nav:
     link: yiweiee2025/status
     icon: list-view
   时间线:
-    link: yiweiee2025/grid-all
+    link: grid-all
     icon: grid-nine
 
 thumbnail_url: https://cdn.jsdelivr.net/gh/goldencommon/yiweiee2025@thumbnail/
